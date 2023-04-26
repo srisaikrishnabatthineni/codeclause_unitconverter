@@ -5,12 +5,12 @@ Convert all kinds of standard units of measurement from one to another with this
 
 It supports the following types of measurement by default.
 
-Length
+ • Length
 
-Weight
+ • Weight
 
-Speed
+ • Speed
 
-Temperature
+ • Temperature
 
-Digital Storage
+ • Digital Storage
